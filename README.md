@@ -38,7 +38,8 @@ Description - Reading the input csv orders through batch processing ,
 
 1. Import project as existing maven project
 2. set the jdk version for compilation and execution if required
-3. run the File named - CsvBatchReaderApplication.java
+3. unzip the test_file_2.csv and copy to src/main/resources folder i.e. paste parallel to application.properties file under src/main/resources folder
+4. run the File named - CsvBatchReaderApplication.java
 
 Application will run on embedded tomcat on port 8081, This can be changed through application.properties
 (take a reference screenshot present in screenshots folder)
