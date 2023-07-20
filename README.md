@@ -45,7 +45,13 @@ Application will run on embedded tomcat on port 8081, This can be changed throug
 **4. Now open H2 database on browser(screenshot attached)**
 
     url - http://localhost:8081/h2-console
-    Just click on connect button appear
+    Put below details on login screen to connect to h2 database
+    -> Driver Class - org.h2.Driver
+    -> JDBC URL - jdbc:h2:mem:database
+    -> username - sa
+    -> password - keep this field blank
+
+  Note :- Usually all the above field comes auto populated with the mentioned value except jdbc url
 
 **5.  Explore Rest APIs(I used Postman for this)**
 
