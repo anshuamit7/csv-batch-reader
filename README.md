@@ -50,7 +50,7 @@ Application will run on embedded tomcat on port 8081, This can be changed throug
 
 **5.  Explore Rest APIs(I used Postman for this)**
 
-    Method	 Url	                                               Description
+     Method	      Url	                                               Description
     GET	     http://localhost:8081/batch/importorderjob	         Import csv orders to db
 
 Now you need to hit the Get request (url mentioned above) and wait for the process to complete
