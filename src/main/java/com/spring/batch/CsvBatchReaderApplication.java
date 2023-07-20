@@ -9,6 +9,7 @@ import java.util.regex.Pattern;
 public class CsvBatchReaderApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(CsvBatchReaderApplication.class, args);
     }
 
