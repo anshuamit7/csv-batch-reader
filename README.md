@@ -31,8 +31,7 @@ Description - Reading the input csv orders through batch processing ,
 
 **Execution Screenshots:**
 
-    2 folders is added in project having execution screenshots and postman screenshots to submit job.
-    Helpful to understand quickly.
+    Two folders are added in project namely **screenshots** and postman_screenshots which will give fair idea about this project understand quickly.
 
 **Steps to run:-**
 
